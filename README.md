@@ -95,11 +95,15 @@ The dataset contains 10,000 records simulating LPG order and delivery operations
 - Screenshots of Dashboard
 
 ---
+## 📊 Dashboard Preview
 
+<img src="LPG_DASHBOARD.png" width="900"/>
+
+---
 ## 📌 Conclusion
 This project demonstrates how data-driven analysis can be used to identify inefficiencies in logistics and improve delivery performance in LPG distribution systems.
 
 ---
 
 ## 👤 Author
-[KIRTHIKA LAKSHMI]
+KIRTHIKA LAKSHMI R
